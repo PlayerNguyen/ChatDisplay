@@ -1,0 +1,11 @@
+# This is a config. You can config in here.
+# Can change value, text and more...
+# Chat Display plugin.
+# You can change language file and get more in http://dev.bukkit.org/bukkit-plugins/chat-display
+# Language file in lang.yml
+
+# Follow use secord on this config
+display-time: 1
+
+# True false with debug mode
+debug-mode: true
